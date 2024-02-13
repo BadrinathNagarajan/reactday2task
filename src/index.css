@@ -1,0 +1,21 @@
+
+#title{
+    font-size: small;
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+
+p{
+    margin-left:25px;
+}
+
+button{
+    margin-left:100px;
+}
+
+body{
+    padding-top:30px;
+    background-color: rgb(13,110,253)
+}
